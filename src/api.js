@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'Put your API key here';
+const API_KEY = '2f4a38c9';
 const BASE_URL = `https://www.omdbapi.com/?apikey=${API_KEY}`;
 
 const mapMovieResponse = m => ({
