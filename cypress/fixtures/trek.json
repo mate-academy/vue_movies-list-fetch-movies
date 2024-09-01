@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Star Trek",
+      "Year": "2009",
+      "imdbID": "tt0796366",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek Into Darkness",
+      "Year": "2013",
+      "imdbID": "tt1408101",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek Beyond",
+      "Year": "2016",
+      "imdbID": "tt2660888",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc2YThlMTgtN2M3Yi00YzkxLWE4MDQtMWJmYmZiNTNjNjJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek: Discovery",
+      "Year": "2017–2024",
+      "imdbID": "tt5171438",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU1MmVmMTYtNzNhNi00NjRlLTljMWItZmFhMWNmYTNhYThiXkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek: The Next Generation",
+      "Year": "1987–1994",
+      "imdbID": "tt0092455",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFhYjE4NzMtOWJmZi00NzEyLTg5NTctYmIxMTU1ZDIxMDAyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek: First Contact",
+      "Year": "1996",
+      "imdbID": "tt0117731",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzMzZmE3MTItODYzYy00YWI5LWFkNWMtZTY5NmU2MDkxYWI1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek II: The Wrath of Khan",
+      "Year": "1982",
+      "imdbID": "tt0084726",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmZiZmM2OTUtZDlmOC00YzYyLThkMGEtZWFkMjJmM2EwZDVkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek: The Motion Picture",
+      "Year": "1979",
+      "imdbID": "tt0079945",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1ZjAyZjktZTY4YS00NDY3LWIwMzktMjZiNGIzODFiZDVmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek: Picard",
+      "Year": "2020–2023",
+      "imdbID": "tt8806524",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRlYjQ0ZDAtNjE3My00YjI2LWE1N2ItMmEwNjAyZDk3YTgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Star Trek",
+      "Year": "1966–1969",
+      "imdbID": "tt0060028",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDRkMTNiNjgtZDIyOC00NmE1LTlkZjEtMGZiNTcyZDQ0NjcxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "629",
+  "Response": "True"
+}

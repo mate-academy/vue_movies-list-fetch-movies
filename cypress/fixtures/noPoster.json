@@ -1,0 +1,55 @@
+{
+  "Search": [
+    {
+      "Title": "Dairy Philosopher",
+      "Year": "2014",
+      "imdbID": "tt3655374",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Philosopher of the Sea",
+      "Year": "2023",
+      "imdbID": "tt26746100",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NmE4OWEtNGEwMy00NmVmLTg4NzEtZjM4Mjk2ZDA3ZmYxXkEyXkFqcGdeQXVyMTYyMzg2OTM4._V1_SX300.jpg"
+    },
+    {
+      "Title": "Philosopher Escaped",
+      "Year": "2005",
+      "imdbID": "tt1355216",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjM3Mzc5M15BMl5BanBnXkFtZTgwMDAwOTYxMDE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "A Philosopher in the Arena",
+      "Year": "2018",
+      "imdbID": "tt8280420",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjMwNTVhZjYtNDFmZC00MDNhLWFiMjUtNWNjMmQ3YzU1YzQwXkEyXkFqcGdeQXVyODQzMDYwMDc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Philosopher Stoned",
+      "Year": "2006",
+      "imdbID": "tt0819920",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "The Philosopher",
+      "Year": "2013",
+      "imdbID": "tt3057522",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "The Philosopher King",
+      "Year": "2014",
+      "imdbID": "tt3130192",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNjQ4MzM3Ml5BMl5BanBnXkFtZTgwNzI1MDE1MjE@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "34",
+  "Response": "True"
+}
